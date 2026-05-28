@@ -22,6 +22,7 @@ const Home: NextPage = () => {
         <Info />
         <NetworkSwitcher />
         <QueryErc20/>
+        <div>修建分支</div>
       </main>
       <footer className={styles.footer}>
         <a href="https://rainbow.me" rel="noopener noreferrer" target="_blank">
